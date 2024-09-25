@@ -1,0 +1,34 @@
+.task {
+    background-color: #fff;
+    border: 1px solid #e8e8e8;
+    border-radius: 6px;
+    padding: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.task-checkbox {
+    margin: 6px;
+}
+
+.task-done {
+    text-decoration: line-through blue 2px;
+}
+
+.icon-red {
+    width: 25px;
+    margin-left: 8px;
+    cursor: pointer;
+    background-color: black;
+    mask-image: url('trash_icon.png');
+    mask-size: contain;
+    mask-repeat: no-repeat;
+}
+
+.icon-red:hover {
+    background-color: red;
+    mask-image: url('trash_icon.png');
+    mask-size: contain;
+    mask-repeat: no-repeat;    
+}

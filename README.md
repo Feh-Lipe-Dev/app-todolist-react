@@ -2,15 +2,15 @@
 
 ## DESCRIÇÃO DO PROJETO
 
--Aplicação completa de gestão de tarefas (front / back)
--Desenvolvida com React / Javascript
--Integração com API própria
--Backend Node.js / Javascript
--Banco de dados SQLite3
--Listagem de tarefas
--Inclusão de tarefas
--Alteração de status
--Exclusão
+- Aplicação completa de gestão de tarefas (front / back)
+- Desenvolvida com React / Javascript
+- Integração com API própria
+- Backend Node.js / Javascript
+- Banco de dados SQLite3
+- Listagem de tarefas
+- Inclusão de tarefas
+- Alteração de status
+- Exclusão
 
 ## TECNOLOGIAS USADAS
 
@@ -25,7 +25,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-Link para o repositório da API: [api-todo-list(https://github.com/Feh-Lipe-Dev/api-todo-list)]
+Link para o repositório da API: (https://github.com/Feh-Lipe-Dev/api-todo-list)
 
 ## CONTATOS
 
